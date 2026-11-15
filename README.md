@@ -14,7 +14,9 @@ Ouvrir `index.html` dans un navigateur connecté à Internet. Phaser 3.80.1 et l
 - **Espace** : impulsion EMP, avec un délai de recharge.
 - **Mobile** : joystick gauche pour bouger, joystick droit pour viser et tirer, bouton EMP.
 
-Le record, les crédits et la progression de la partie sont conservés localement dans le navigateur. Le jeu comprend sept armes, cinq variantes de zombies dessinées en 2D avec animations, un survivant détaillé, des traces au sol, un boss récurrent, des bonus, une arène à obstacles et cinq thèmes sélectionnables.
+Le record, les crédits et la progression de la partie sont conservés localement dans le navigateur. Le jeu comprend sept armes, cinq variantes de zombies dessinées en 2D avec animations, un survivant détaillé, des traces au sol, un boss récurrent, des bonus, une arène à obstacles et cinq thèmes sélectionnables. Les effets audio sont générés dans le navigateur : tirs distincts par arme, impacts, grognements synthétiques, explosion, EMP, bonus et fond sonore. Le bouton « SON » permet de couper ou rétablir le son.
+
+Chaque environnement a son propre éclairage et des éléments de décor : consoles de laboratoire, pierres tombales, gravats, caisses militaires ou machines d’usine.
 
 ## Transférer le jeu sur GitHub
 
